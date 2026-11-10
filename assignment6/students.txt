@@ -1,0 +1,5 @@
+Student ID: 101
+Student Name: Samm
+Student Course: B.E
+Student Marks: 89.5
+-------------------------
